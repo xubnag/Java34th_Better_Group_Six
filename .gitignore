@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# 注意：只有没有追踪过的文件可以忽略管理，如果你这个文件已经管理过了（远程仓库当前版本包含这个文件），就忽略不掉了
+
